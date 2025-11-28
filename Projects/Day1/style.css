@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&display=swap");
+.bg-container{
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/todolistbg.png");
+    background-size: cover;
+    height: 100vh;
+    color: white;
+    text-align: center;
+    font-family: Robotto;
+    margin: 0;
+    padding:0
+}
+.main-heading{
+    text-align: center;
+}
+.sub-heading{
+    text-align: left;
+}
+.button{
+    background-color: yellow;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin:20px ;
+}
+.paragraph2{
+    text-decoration: underline;
+        text-align: center;
+}
+.paragraph1{
+    text-align: center;
+}
+.paragraph3{
+    text-align: left;
+}
+
+
+
