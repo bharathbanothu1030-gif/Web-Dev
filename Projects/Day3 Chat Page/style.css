@@ -8,6 +8,7 @@
    min-height: 100vh;;
    font-size: 16px;
    color: #ffffff;
+    display: flex;
 }
 .main-heading{
     text-align: center;
